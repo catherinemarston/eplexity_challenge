@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
+    <!-- //use materialize.min.css in the future -->
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+    <!-- Page Layout here -->
+    <div class="container">
+        <div class="row">
+            <div class="col s3 sidebar">
+                <!-- Note that "m4 l3" was added -->
+                <!-- Grey navigation panel
+                    This content will be:
+                3-columns-wide on large screens,
+                4-columns-wide on medium screens,
+                12-columns-wide on small screens  this is the navbar-->
+                <h5>MAIN</h5>
+                <ul>
+                    <li>SUMMARY</li>
+                    <li>SERVERS</li>
+                    <li>NETWORK</li>
+                    <li>TASKS</li>
+                    <li>MARKETPLACE</li>
+                </ul>
+                <br />
+                <h5>ADMINISTRATION</h5>
+                <ul>
+                    <li class="blue-text lighten-1">ADMINISTRATION</li>
+                </ul>
+            </div>
+
+                <div class="col s9 grey lighten-4">
+                    <!-- Teal page content
+                    This content will be:
+                9-columns-wide on large screens,
+                8-columns-wide on medium screens,
+                12-columns-wide on small screens  -->
+                    <!-- first div -->
+                    <h4>Add Provider Plan</h4>
+                    <!-- first div -->
+                    <div class="provider row">
+                        <div class="title cols6">
+                            <div class="number-circle">1</div>
+                            <h5>Provider Plan Name</h5>
+                            <p>
+                                This name will be used throughout Explexity CXOS interface. We recommend keeping
+                                <br /> it short and sweet, so that it's easy to identify in the future.
+                            </p>
+                            <!-- //form for provider plan name -->
+                            <form class="col s6">
+                                <div class="row">
+                                    <div class="input-field col s6">
+                                        <input placeholder="" id="provider_name" type="text" class="validate">
+                                        <label for="provider_name">Provider Plan Name</label>
+                                    </div>
+                                </div>
+                            </form>
+                            </span>
+                        </div>
+                    </div>
+                    <!-- second section -->
+
+                    <div class="row">
+                        <div class="number prefix">2</div>
+                        <h5>Choose Provider Backing</h5>
+                        <div class="col s12">
+                            <p>This will determine how much of the cloud platform this serviers lives on will consume. <br /> If you choose a server that's larger than the cloud platform it lives on, we'll bump up the size of your cloud platform to handle
+                                it.
+                            </p>
+                        </div>
+                        <!-- <div class="col s6">This div is 6-columns wide -->
+                        <form class="col s6">
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    <input value="Server Size Backing" id="provider_compute" type="text" class="validate">
+                                    <label for="provider_compute">Provider Compute Backing</label>
+                                </div>
+                            </div>
+                        </form>
+                        <!-- </div> -->
+                    </div>
+
+                    <!-- //second portion with cards  -->
+                    <div class="row">
+                        <h5>Server Size Backing</h5>
+
+                        <div class="col s12">
+                          <div class = "flex-container">
+                            <div class="flex-item">
+                                <div class="top-half">X1</div>
+                                <div class="bottom-half">
+                              <p>
+                                $50 <br/>
+                                <strong>PER MONTH</strong>
+                              </p></div>
+                            </div>
+
+                            <div class="flex-item">
+                                <div class="top-half">
+                                  X2
+                                </div>
+                                <div class="bottom-half">
+                                  <p>
+                                    $70 <br/>
+                                    <strong>PER MONTH</strong>
+                                  </p>
+                                </div>
+                            </div>
+                            <div class="flex-item">
+                                <div class="top-half">X3</div>
+                                <div class="bottom-half">
+                                  <p>
+                                    $200 <br/>
+                                    <strong>PER MONTH</strong>
+                                  </p>
+                                </div>
+                            </div>
+                            <div class="flex-item">
+                                <div class="top-half">
+                                  X4
+                                </div>
+                                <div class="bottom-half">
+                                  <p>
+                                    $240 <br/>
+                                    <strong>PER MONTH</strong>
+                                  </p>
+                                </div>
+                            </div>
+                            <div class="flex-item">
+                                <div class="top-half">X5</div>
+                                <div class="bottom-half">
+                                  <p>
+                                    $400 <br/>
+                                    <strong>PER MONTH</strong>
+                                  </p>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                        <!-- <div class="card-panel">
+          <span class="white-text">X1
+          </span>
+          <div class = "pricing">
+            $50
+            <br/>PER MONTH
+          </div>
+    </div> -->
+                        <!-- <div class="card-panel">
+          <span class="white-text">X2
+          </span>
+          <div class = "pricing">
+            $50
+            <br/>PER MONTH
+          </div>
+        </div>
+
+        <div class="card-panel">
+          <span class="white-text">X3
+          </span>
+          <div class = "pricing">
+            $200
+            <br/>PER MONTH
+          </div>
+        </div>
+
+        <div class="card-panel">
+          <span class="white-text">X4
+          </span>
+            <div class = "pricing">
+              $240
+              <br/>PER MONTH
+            </div>
+        </div>
+
+        <div class="card-panel">
+          <span class="white-text">X5
+          </span>
+          <div class = "pricing">
+            $400
+            <br/>PER MONTH
+          </div>
+        </div> -->
+                    <!-- </div> -->
+                    <!-- //third portion  -->
+                    <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    <input placeholder="AWS Cloud Sized" id="public_cloud" type="text" class="validate">
+                                    <label for="public_cloud">Public Cloud Equivalent Size</label>
+                                </div>
+                                <div class="input-field col s6">
+                                    <input placeholder="m4.xlarge " id="cloud_size" type="text" class="validate">
+                                    <label for="cloud_size">Cloud Sized</label>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+
+                    <!-- third section -->
+                    <div class="row">
+                        <div class="number prefix">3</div>
+                        <h1>Governance</h1>
+                        <div class="col s8">
+                            <p>
+                                Select which cloud platform you'd like this server to live on. <br /> The server will consume resources from that cloud platform.
+                            </p>
+                        </div>
+                        <!-- //cards -->
+                        <div class="col s8">
+
+                            <div class="card horizontal">
+                                <h5>Amazon Web Services</h5>
+                                <div class="card-stacked center-paragraph">
+                                    <div class="card-content left-paragraph">
+                                        <span class="budget">Total Budget</span>
+                                        <span class="cloud-pricing">$250 /MONTH</span>
+                                    </div>
+                                    <div class="card-content right-paragraph">
+                                        <span class="budget">Total Instances</span>
+                                        <span class="cloud-pricing">25</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card horizontal">
+                                <h5>Amazon Web Services</h5>
+                                <div class="card-stacked">
+                                    <div class="card-content">
+                                        <span class="budget left-align">Total Budget</span>
+                                        <span class="cloud-pricing left-align">$250 /MONTH</span>
+
+                                    </div>
+                                    <div class="card-content">
+                                        <span class="budget right-align">Total Instances</span>
+                                        <span class="cloud-pricing right-align">25</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col s8">
+                                <div class="input-field col s8">
+                                    <input id="available_cloud" type="text" class="validate">
+
+                                    <div class="chip">
+                                        DC Agent 1
+                                        <i class="close material-icons">close</i>
+                                    </div>
+                                    <div class="chip">
+                                        DC Agent 2
+                                        <i class="close material-icons">close</i>
+                                    </div>
+                                    <div class="chip">
+                                        DC Agent 3
+                                        <i class="close material-icons">close</i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- fourth section -->
+
+
+                    <!--
+fifth section -->
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+        <!--Import jQuery before materialize.js-->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="js/bin/materialize.min.js"></script>
+</body>
+
+</html>

@@ -3,3 +3,19 @@
 //     -moz-box-shadow: $args1, $args2;
 //     box-shadow: $args1, $args2;
 // }
+
+@mixin number-circle {
+  float: left;
+    border-radius: 50%;
+     /* remove if you don't care about IE8 */
+    width: 2rem;
+    height: 2rem;
+    padding: 8px;
+    background: #fff;
+    border: {
+      color: $border-color;
+      width: 2px solid;
+    }
+    color: $border-color;
+    text-align: center;
+}
