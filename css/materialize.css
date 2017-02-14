@@ -28,25 +28,25 @@
 .materialize-red-text.text-lighten-2 {
   color: #ee6e73 !important; }
 
-.materialize-red.lighten-1 {
+.materialize-red.lighten-1, .materialize-red.orange-amazon {
   background-color: #ea454b !important; }
 
 .materialize-red-text.text-lighten-1 {
   color: #ea454b !important; }
 
-.materialize-red.darken-1, .top-half a.materialize-red {
+.materialize-red.darken-1, .top-half h6.materialize-red {
   background-color: #d0181e !important; }
 
 .materialize-red-text.text-darken-1 {
   color: #d0181e !important; }
 
-.materialize-red.darken-2, .materialize-red.cloud-pricing {
+.materialize-red.darken-2 {
   background-color: #b9151b !important; }
 
 .materialize-red-text.text-darken-2 {
   color: #b9151b !important; }
 
-.materialize-red.darken-3 {
+.materialize-red.darken-3, .bottom-half p.materialize-red {
   background-color: #a21318 !important; }
 
 .materialize-red-text.text-darken-3 {
@@ -88,25 +88,25 @@
 .red-text.text-lighten-2 {
   color: #E57373 !important; }
 
-.red.lighten-1 {
+.red.lighten-1, .red.orange-amazon {
   background-color: #EF5350 !important; }
 
 .red-text.text-lighten-1 {
   color: #EF5350 !important; }
 
-.red.darken-1, .top-half a.red {
+.red.darken-1, .top-half h6.red {
   background-color: #E53935 !important; }
 
 .red-text.text-darken-1 {
   color: #E53935 !important; }
 
-.red.darken-2, .red.cloud-pricing {
+.red.darken-2 {
   background-color: #D32F2F !important; }
 
 .red-text.text-darken-2 {
   color: #D32F2F !important; }
 
-.red.darken-3 {
+.red.darken-3, .bottom-half p.red {
   background-color: #C62828 !important; }
 
 .red-text.text-darken-3 {
@@ -172,25 +172,25 @@
 .pink-text.text-lighten-2 {
   color: #f06292 !important; }
 
-.pink.lighten-1 {
+.pink.lighten-1, .pink.orange-amazon {
   background-color: #ec407a !important; }
 
 .pink-text.text-lighten-1 {
   color: #ec407a !important; }
 
-.pink.darken-1, .top-half a.pink {
+.pink.darken-1, .top-half h6.pink {
   background-color: #d81b60 !important; }
 
 .pink-text.text-darken-1 {
   color: #d81b60 !important; }
 
-.pink.darken-2, .pink.cloud-pricing {
+.pink.darken-2 {
   background-color: #c2185b !important; }
 
 .pink-text.text-darken-2 {
   color: #c2185b !important; }
 
-.pink.darken-3 {
+.pink.darken-3, .bottom-half p.pink {
   background-color: #ad1457 !important; }
 
 .pink-text.text-darken-3 {
@@ -256,25 +256,25 @@
 .purple-text.text-lighten-2 {
   color: #ba68c8 !important; }
 
-.purple.lighten-1 {
+.purple.lighten-1, .purple.orange-amazon {
   background-color: #ab47bc !important; }
 
 .purple-text.text-lighten-1 {
   color: #ab47bc !important; }
 
-.purple.darken-1, .top-half a.purple {
+.purple.darken-1, .top-half h6.purple {
   background-color: #8e24aa !important; }
 
 .purple-text.text-darken-1 {
   color: #8e24aa !important; }
 
-.purple.darken-2, .purple.cloud-pricing {
+.purple.darken-2 {
   background-color: #7b1fa2 !important; }
 
 .purple-text.text-darken-2 {
   color: #7b1fa2 !important; }
 
-.purple.darken-3 {
+.purple.darken-3, .bottom-half p.purple {
   background-color: #6a1b9a !important; }
 
 .purple-text.text-darken-3 {
@@ -340,25 +340,25 @@
 .deep-purple-text.text-lighten-2 {
   color: #9575cd !important; }
 
-.deep-purple.lighten-1 {
+.deep-purple.lighten-1, .deep-purple.orange-amazon {
   background-color: #7e57c2 !important; }
 
 .deep-purple-text.text-lighten-1 {
   color: #7e57c2 !important; }
 
-.deep-purple.darken-1, .top-half a.deep-purple {
+.deep-purple.darken-1, .top-half h6.deep-purple {
   background-color: #5e35b1 !important; }
 
 .deep-purple-text.text-darken-1 {
   color: #5e35b1 !important; }
 
-.deep-purple.darken-2, .deep-purple.cloud-pricing {
+.deep-purple.darken-2 {
   background-color: #512da8 !important; }
 
 .deep-purple-text.text-darken-2 {
   color: #512da8 !important; }
 
-.deep-purple.darken-3 {
+.deep-purple.darken-3, .bottom-half p.deep-purple {
   background-color: #4527a0 !important; }
 
 .deep-purple-text.text-darken-3 {
@@ -424,25 +424,25 @@
 .indigo-text.text-lighten-2 {
   color: #7986cb !important; }
 
-.indigo.lighten-1 {
+.indigo.lighten-1, .indigo.orange-amazon {
   background-color: #5c6bc0 !important; }
 
 .indigo-text.text-lighten-1 {
   color: #5c6bc0 !important; }
 
-.indigo.darken-1, .top-half a.indigo {
+.indigo.darken-1, .top-half h6.indigo {
   background-color: #3949ab !important; }
 
 .indigo-text.text-darken-1 {
   color: #3949ab !important; }
 
-.indigo.darken-2, .indigo.cloud-pricing {
+.indigo.darken-2 {
   background-color: #303f9f !important; }
 
 .indigo-text.text-darken-2 {
   color: #303f9f !important; }
 
-.indigo.darken-3 {
+.indigo.darken-3, .bottom-half p.indigo {
   background-color: #283593 !important; }
 
 .indigo-text.text-darken-3 {
@@ -508,25 +508,25 @@
 .blue-text.text-lighten-2 {
   color: #64B5F6 !important; }
 
-.blue.lighten-1 {
+.blue.lighten-1, .blue.orange-amazon {
   background-color: #42A5F5 !important; }
 
 .blue-text.text-lighten-1 {
   color: #42A5F5 !important; }
 
-.blue.darken-1, .top-half a.blue {
+.blue.darken-1, .top-half h6.blue {
   background-color: #1E88E5 !important; }
 
 .blue-text.text-darken-1 {
   color: #1E88E5 !important; }
 
-.blue.darken-2, .blue.cloud-pricing {
+.blue.darken-2 {
   background-color: #1976D2 !important; }
 
 .blue-text.text-darken-2 {
   color: #1976D2 !important; }
 
-.blue.darken-3 {
+.blue.darken-3, .bottom-half p.blue {
   background-color: #1565C0 !important; }
 
 .blue-text.text-darken-3 {
@@ -592,25 +592,25 @@
 .light-blue-text.text-lighten-2 {
   color: #4fc3f7 !important; }
 
-.light-blue.lighten-1 {
+.light-blue.lighten-1, .light-blue.orange-amazon {
   background-color: #29b6f6 !important; }
 
 .light-blue-text.text-lighten-1 {
   color: #29b6f6 !important; }
 
-.light-blue.darken-1, .top-half a.light-blue {
+.light-blue.darken-1, .top-half h6.light-blue {
   background-color: #039be5 !important; }
 
 .light-blue-text.text-darken-1 {
   color: #039be5 !important; }
 
-.light-blue.darken-2, .light-blue.cloud-pricing {
+.light-blue.darken-2 {
   background-color: #0288d1 !important; }
 
 .light-blue-text.text-darken-2 {
   color: #0288d1 !important; }
 
-.light-blue.darken-3 {
+.light-blue.darken-3, .bottom-half p.light-blue {
   background-color: #0277bd !important; }
 
 .light-blue-text.text-darken-3 {
@@ -676,25 +676,25 @@
 .cyan-text.text-lighten-2 {
   color: #4dd0e1 !important; }
 
-.cyan.lighten-1 {
+.cyan.lighten-1, .cyan.orange-amazon {
   background-color: #26c6da !important; }
 
 .cyan-text.text-lighten-1 {
   color: #26c6da !important; }
 
-.cyan.darken-1, .top-half a.cyan {
+.cyan.darken-1, .top-half h6.cyan {
   background-color: #00acc1 !important; }
 
 .cyan-text.text-darken-1 {
   color: #00acc1 !important; }
 
-.cyan.darken-2, .cyan.cloud-pricing {
+.cyan.darken-2 {
   background-color: #0097a7 !important; }
 
 .cyan-text.text-darken-2 {
   color: #0097a7 !important; }
 
-.cyan.darken-3 {
+.cyan.darken-3, .bottom-half p.cyan {
   background-color: #00838f !important; }
 
 .cyan-text.text-darken-3 {
@@ -760,25 +760,25 @@
 .teal-text.text-lighten-2 {
   color: #4db6ac !important; }
 
-.teal.lighten-1 {
+.teal.lighten-1, .teal.orange-amazon {
   background-color: #26a69a !important; }
 
 .teal-text.text-lighten-1 {
   color: #26a69a !important; }
 
-.teal.darken-1, .top-half a.teal {
+.teal.darken-1, .top-half h6.teal {
   background-color: #00897b !important; }
 
 .teal-text.text-darken-1 {
   color: #00897b !important; }
 
-.teal.darken-2, .teal.cloud-pricing {
+.teal.darken-2 {
   background-color: #00796b !important; }
 
 .teal-text.text-darken-2 {
   color: #00796b !important; }
 
-.teal.darken-3 {
+.teal.darken-3, .bottom-half p.teal {
   background-color: #00695c !important; }
 
 .teal-text.text-darken-3 {
@@ -844,25 +844,25 @@
 .green-text.text-lighten-2 {
   color: #81C784 !important; }
 
-.green.lighten-1 {
+.green.lighten-1, .green.orange-amazon {
   background-color: #66BB6A !important; }
 
 .green-text.text-lighten-1 {
   color: #66BB6A !important; }
 
-.green.darken-1, .top-half a.green {
+.green.darken-1, .top-half h6.green {
   background-color: #43A047 !important; }
 
 .green-text.text-darken-1 {
   color: #43A047 !important; }
 
-.green.darken-2, .green.cloud-pricing {
+.green.darken-2 {
   background-color: #388E3C !important; }
 
 .green-text.text-darken-2 {
   color: #388E3C !important; }
 
-.green.darken-3 {
+.green.darken-3, .bottom-half p.green {
   background-color: #2E7D32 !important; }
 
 .green-text.text-darken-3 {
@@ -928,25 +928,25 @@
 .light-green-text.text-lighten-2 {
   color: #aed581 !important; }
 
-.light-green.lighten-1 {
+.light-green.lighten-1, .light-green.orange-amazon {
   background-color: #9ccc65 !important; }
 
 .light-green-text.text-lighten-1 {
   color: #9ccc65 !important; }
 
-.light-green.darken-1, .top-half a.light-green {
+.light-green.darken-1, .top-half h6.light-green {
   background-color: #7cb342 !important; }
 
 .light-green-text.text-darken-1 {
   color: #7cb342 !important; }
 
-.light-green.darken-2, .light-green.cloud-pricing {
+.light-green.darken-2 {
   background-color: #689f38 !important; }
 
 .light-green-text.text-darken-2 {
   color: #689f38 !important; }
 
-.light-green.darken-3 {
+.light-green.darken-3, .bottom-half p.light-green {
   background-color: #558b2f !important; }
 
 .light-green-text.text-darken-3 {
@@ -1012,25 +1012,25 @@
 .lime-text.text-lighten-2 {
   color: #dce775 !important; }
 
-.lime.lighten-1 {
+.lime.lighten-1, .lime.orange-amazon {
   background-color: #d4e157 !important; }
 
 .lime-text.text-lighten-1 {
   color: #d4e157 !important; }
 
-.lime.darken-1, .top-half a.lime {
+.lime.darken-1, .top-half h6.lime {
   background-color: #c0ca33 !important; }
 
 .lime-text.text-darken-1 {
   color: #c0ca33 !important; }
 
-.lime.darken-2, .lime.cloud-pricing {
+.lime.darken-2 {
   background-color: #afb42b !important; }
 
 .lime-text.text-darken-2 {
   color: #afb42b !important; }
 
-.lime.darken-3 {
+.lime.darken-3, .bottom-half p.lime {
   background-color: #9e9d24 !important; }
 
 .lime-text.text-darken-3 {
@@ -1096,25 +1096,25 @@
 .yellow-text.text-lighten-2 {
   color: #fff176 !important; }
 
-.yellow.lighten-1 {
+.yellow.lighten-1, .yellow.orange-amazon {
   background-color: #ffee58 !important; }
 
 .yellow-text.text-lighten-1 {
   color: #ffee58 !important; }
 
-.yellow.darken-1, .top-half a.yellow {
+.yellow.darken-1, .top-half h6.yellow {
   background-color: #fdd835 !important; }
 
 .yellow-text.text-darken-1 {
   color: #fdd835 !important; }
 
-.yellow.darken-2, .yellow.cloud-pricing {
+.yellow.darken-2 {
   background-color: #fbc02d !important; }
 
 .yellow-text.text-darken-2 {
   color: #fbc02d !important; }
 
-.yellow.darken-3 {
+.yellow.darken-3, .bottom-half p.yellow {
   background-color: #f9a825 !important; }
 
 .yellow-text.text-darken-3 {
@@ -1180,25 +1180,25 @@
 .amber-text.text-lighten-2 {
   color: #ffd54f !important; }
 
-.amber.lighten-1 {
+.amber.lighten-1, .amber.orange-amazon {
   background-color: #ffca28 !important; }
 
 .amber-text.text-lighten-1 {
   color: #ffca28 !important; }
 
-.amber.darken-1, .top-half a.amber {
+.amber.darken-1, .top-half h6.amber {
   background-color: #ffb300 !important; }
 
 .amber-text.text-darken-1 {
   color: #ffb300 !important; }
 
-.amber.darken-2, .amber.cloud-pricing {
+.amber.darken-2 {
   background-color: #ffa000 !important; }
 
 .amber-text.text-darken-2 {
   color: #ffa000 !important; }
 
-.amber.darken-3 {
+.amber.darken-3, .bottom-half p.amber {
   background-color: #ff8f00 !important; }
 
 .amber-text.text-darken-3 {
@@ -1234,85 +1234,85 @@
 .amber-text.text-accent-4 {
   color: #ffab00 !important; }
 
-.orange {
+.orange, .orange-amazon {
   background-color: #ff9800 !important; }
 
 .orange-text {
   color: #ff9800 !important; }
 
-.orange.lighten-5 {
+.orange.lighten-5, .lighten-5.orange-amazon {
   background-color: #fff3e0 !important; }
 
 .orange-text.text-lighten-5 {
   color: #fff3e0 !important; }
 
-.orange.lighten-4 {
+.orange.lighten-4, .lighten-4.orange-amazon {
   background-color: #ffe0b2 !important; }
 
 .orange-text.text-lighten-4 {
   color: #ffe0b2 !important; }
 
-.orange.lighten-3 {
+.orange.lighten-3, .lighten-3.orange-amazon {
   background-color: #ffcc80 !important; }
 
 .orange-text.text-lighten-3 {
   color: #ffcc80 !important; }
 
-.orange.lighten-2, .orange.bottom-half {
+.orange.lighten-2, .orange.bottom-half, .bottom-half.orange-amazon, .lighten-2.orange-amazon {
   background-color: #ffb74d !important; }
 
 .orange-text.text-lighten-2 {
   color: #ffb74d !important; }
 
-.orange.lighten-1 {
+.orange.lighten-1, .orange-amazon {
   background-color: #ffa726 !important; }
 
 .orange-text.text-lighten-1 {
   color: #ffa726 !important; }
 
-.orange.darken-1, .top-half a.orange {
+.orange.darken-1, .top-half h6.orange, .top-half h6.orange-amazon, .darken-1.orange-amazon {
   background-color: #fb8c00 !important; }
 
 .orange-text.text-darken-1 {
   color: #fb8c00 !important; }
 
-.orange.darken-2, .orange.cloud-pricing {
+.orange.darken-2, .darken-2.orange-amazon {
   background-color: #f57c00 !important; }
 
 .orange-text.text-darken-2 {
   color: #f57c00 !important; }
 
-.orange.darken-3 {
+.orange.darken-3, .bottom-half p.orange, .bottom-half p.orange-amazon, .darken-3.orange-amazon {
   background-color: #ef6c00 !important; }
 
 .orange-text.text-darken-3 {
   color: #ef6c00 !important; }
 
-.orange.darken-4 {
+.orange.darken-4, .darken-4.orange-amazon {
   background-color: #e65100 !important; }
 
 .orange-text.text-darken-4 {
   color: #e65100 !important; }
 
-.orange.accent-1 {
+.orange.accent-1, .accent-1.orange-amazon {
   background-color: #ffd180 !important; }
 
 .orange-text.text-accent-1 {
   color: #ffd180 !important; }
 
-.orange.accent-2 {
+.orange.accent-2, .accent-2.orange-amazon {
   background-color: #ffab40 !important; }
 
 .orange-text.text-accent-2 {
   color: #ffab40 !important; }
 
-.orange.accent-3 {
+.orange.accent-3, .accent-3.orange-amazon {
   background-color: #ff9100 !important; }
 
 .orange-text.text-accent-3 {
   color: #ff9100 !important; }
 
-.orange.accent-4 {
+.orange.accent-4, .accent-4.orange-amazon {
   background-color: #ff6d00 !important; }
 
 .orange-text.text-accent-4 {
@@ -1348,25 +1348,25 @@
 .deep-orange-text.text-lighten-2 {
   color: #ff8a65 !important; }
 
-.deep-orange.lighten-1 {
+.deep-orange.lighten-1, .deep-orange.orange-amazon {
   background-color: #ff7043 !important; }
 
 .deep-orange-text.text-lighten-1 {
   color: #ff7043 !important; }
 
-.deep-orange.darken-1, .top-half a.deep-orange {
+.deep-orange.darken-1, .top-half h6.deep-orange {
   background-color: #f4511e !important; }
 
 .deep-orange-text.text-darken-1 {
   color: #f4511e !important; }
 
-.deep-orange.darken-2, .deep-orange.cloud-pricing {
+.deep-orange.darken-2 {
   background-color: #e64a19 !important; }
 
 .deep-orange-text.text-darken-2 {
   color: #e64a19 !important; }
 
-.deep-orange.darken-3 {
+.deep-orange.darken-3, .bottom-half p.deep-orange {
   background-color: #d84315 !important; }
 
 .deep-orange-text.text-darken-3 {
@@ -1432,25 +1432,25 @@
 .brown-text.text-lighten-2 {
   color: #a1887f !important; }
 
-.brown.lighten-1 {
+.brown.lighten-1, .brown.orange-amazon {
   background-color: #8d6e63 !important; }
 
 .brown-text.text-lighten-1 {
   color: #8d6e63 !important; }
 
-.brown.darken-1, .top-half a.brown {
+.brown.darken-1, .top-half h6.brown {
   background-color: #6d4c41 !important; }
 
 .brown-text.text-darken-1 {
   color: #6d4c41 !important; }
 
-.brown.darken-2, .brown.cloud-pricing {
+.brown.darken-2 {
   background-color: #5d4037 !important; }
 
 .brown-text.text-darken-2 {
   color: #5d4037 !important; }
 
-.brown.darken-3 {
+.brown.darken-3, .bottom-half p.brown {
   background-color: #4e342e !important; }
 
 .brown-text.text-darken-3 {
@@ -1492,25 +1492,25 @@
 .blue-grey-text.text-lighten-2 {
   color: #90a4ae !important; }
 
-.blue-grey.lighten-1 {
+.blue-grey.lighten-1, .blue-grey.orange-amazon {
   background-color: #78909c !important; }
 
 .blue-grey-text.text-lighten-1 {
   color: #78909c !important; }
 
-.blue-grey.darken-1, .top-half a.blue-grey {
+.blue-grey.darken-1, .top-half h6.blue-grey {
   background-color: #546e7a !important; }
 
 .blue-grey-text.text-darken-1 {
   color: #546e7a !important; }
 
-.blue-grey.darken-2, .blue-grey.cloud-pricing {
+.blue-grey.darken-2 {
   background-color: #455a64 !important; }
 
 .blue-grey-text.text-darken-2 {
   color: #455a64 !important; }
 
-.blue-grey.darken-3 {
+.blue-grey.darken-3, .bottom-half p.blue-grey {
   background-color: #37474f !important; }
 
 .blue-grey-text.text-darken-3 {
@@ -1522,61 +1522,61 @@
 .blue-grey-text.text-darken-4 {
   color: #263238 !important; }
 
-.grey, .top-half a, .bottom-half, .cloud-pricing {
+.grey, .top-half h6, .bottom-half, .bottom-half p {
   background-color: #9e9e9e !important; }
 
 .grey-text {
   color: #9e9e9e !important; }
 
-.grey.lighten-5, .top-half a.lighten-5, .lighten-5.bottom-half, .lighten-5.cloud-pricing {
+.grey.lighten-5, .top-half h6.lighten-5, .lighten-5.bottom-half, .bottom-half p.lighten-5 {
   background-color: #fafafa !important; }
 
 .grey-text.text-lighten-5 {
   color: #fafafa !important; }
 
-.grey.lighten-4, .top-half a.lighten-4, .lighten-4.bottom-half, .lighten-4.cloud-pricing {
+.grey.lighten-4, .top-half h6.lighten-4, .lighten-4.bottom-half, .bottom-half p.lighten-4 {
   background-color: #f5f5f5 !important; }
 
 .grey-text.text-lighten-4 {
   color: #f5f5f5 !important; }
 
-.grey.lighten-3, .top-half a.lighten-3, .lighten-3.bottom-half, .lighten-3.cloud-pricing {
+.grey.lighten-3, .top-half h6.lighten-3, .lighten-3.bottom-half, .bottom-half p.lighten-3 {
   background-color: #eeeeee !important; }
 
 .grey-text.text-lighten-3 {
   color: #eeeeee !important; }
 
-.grey.lighten-2, .top-half a.lighten-2, .top-half a.bottom-half, .bottom-half, .lighten-2.cloud-pricing {
+.grey.lighten-2, .top-half h6.lighten-2, .top-half h6.bottom-half, .bottom-half, .bottom-half p.lighten-2, .bottom-half p.bottom-half {
   background-color: #e0e0e0 !important; }
 
 .grey-text.text-lighten-2 {
   color: #e0e0e0 !important; }
 
-.grey.lighten-1, .top-half a.lighten-1, .lighten-1.bottom-half, .lighten-1.cloud-pricing {
+.grey.lighten-1, .top-half h6.lighten-1, .top-half h6.orange-amazon, .lighten-1.bottom-half, .bottom-half.orange-amazon, .bottom-half p.lighten-1, .bottom-half p.orange-amazon, .grey.orange-amazon {
   background-color: #bdbdbd !important; }
 
 .grey-text.text-lighten-1 {
   color: #bdbdbd !important; }
 
-.grey.darken-1, .top-half a, .darken-1.bottom-half, .darken-1.cloud-pricing {
+.grey.darken-1, .top-half h6, .darken-1.bottom-half, .bottom-half p.darken-1 {
   background-color: #757575 !important; }
 
 .grey-text.text-darken-1 {
   color: #757575 !important; }
 
-.grey.darken-2, .top-half a.darken-2, .top-half a.cloud-pricing, .darken-2.bottom-half, .cloud-pricing {
+.grey.darken-2, .top-half h6.darken-2, .darken-2.bottom-half, .bottom-half p.darken-2 {
   background-color: #616161 !important; }
 
 .grey-text.text-darken-2 {
   color: #616161 !important; }
 
-.grey.darken-3, .top-half a.darken-3, .darken-3.bottom-half, .darken-3.cloud-pricing {
+.grey.darken-3, .top-half h6.darken-3, .darken-3.bottom-half, .bottom-half p {
   background-color: #424242 !important; }
 
 .grey-text.text-darken-3 {
   color: #424242 !important; }
 
-.grey.darken-4, .top-half a.darken-4, .darken-4.bottom-half, .darken-4.cloud-pricing {
+.grey.darken-4, .top-half h6.darken-4, .darken-4.bottom-half, .bottom-half p.darken-4 {
   background-color: #212121 !important; }
 
 .grey-text.text-darken-4 {
@@ -2477,7 +2477,9 @@ input[type=range] + .thumb {
   padding: 0 !important; }
 
 .sidebar {
-  box-shadow: 8px 0px 22px -5px rgba(0, 0, 0, 0.15); }
+  box-shadow: 8px 0px 22px -5px #888;
+  padding-left: 22px;
+  padding-top: 15px; }
 
 span.badge {
   min-width: 3rem;
@@ -3142,7 +3144,7 @@ html {
       font-size: 12px; } }
   @media only screen and (min-width: 992px) {
     html {
-      font-size: 14.5px; } }
+      font-size: 12.5px; } }
   @media only screen and (min-width: 1200px) {
     html {
       font-size: 15px; } }
@@ -3188,7 +3190,7 @@ em {
   font-style: italic; }
 
 strong {
-  font-weight: 500; }
+  font-weight: 300; }
 
 small {
   font-size: 75%; }
@@ -5823,7 +5825,7 @@ input[type=range]:focus::-ms-fill-upper {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  -webkit-flex-flow: row wrap;
+  -webkit-flex-flow: row;
   justify-content: space-around; }
 
 .flex-item {
@@ -5834,16 +5836,21 @@ input[type=range]:focus::-ms-fill-upper {
   text-align: center; }
 
 .top-half {
+  display: flex;
+  justify-content: center;
   order: 1;
   height: 75px;
   background: white; }
+  .top-half a {
+    font-size: 25px;
+    align-self: center; }
 
 .bottom-half {
   order: 2;
   height: 75px; }
   .bottom-half p {
     margin: 0px;
-    padding: 0px; }
+    padding-top: 10px; }
 
 .center-paragraph {
   display: -webkit-box;
@@ -5886,19 +5893,17 @@ input[type=range]:focus::-ms-fill-upper {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  -webkit-flex-flow: row wrap;
+  -webkit-flex-flow: row;
   justify-content: space-around; }
 
 .amazon-flex-item {
-  background: tomato;
+  background: white;
+  margin-left: 11px;
   padding: 5px;
   width: 400px;
   height: 200px;
   margin-top: 10px;
-  line-height: 150px;
-  color: white;
-  font-weight: bold;
-  font-size: 3em;
+  font-size: 1em;
   text-align: center; }
 
 .amazon-parapgraph {
@@ -5907,3 +5912,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 .amazon-left {
   order: 1; }
+
+.active-amazon {
+  border-color: blue;
+  border-width: thin; }
