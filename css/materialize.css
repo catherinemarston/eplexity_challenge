@@ -34,7 +34,7 @@
 .materialize-red-text.text-lighten-1 {
   color: #ea454b !important; }
 
-.materialize-red.darken-1, .materialize-red.top-half {
+.materialize-red.darken-1, .top-half a.materialize-red {
   background-color: #d0181e !important; }
 
 .materialize-red-text.text-darken-1 {
@@ -94,7 +94,7 @@
 .red-text.text-lighten-1 {
   color: #EF5350 !important; }
 
-.red.darken-1, .red.top-half {
+.red.darken-1, .top-half a.red {
   background-color: #E53935 !important; }
 
 .red-text.text-darken-1 {
@@ -178,7 +178,7 @@
 .pink-text.text-lighten-1 {
   color: #ec407a !important; }
 
-.pink.darken-1, .pink.top-half {
+.pink.darken-1, .top-half a.pink {
   background-color: #d81b60 !important; }
 
 .pink-text.text-darken-1 {
@@ -262,7 +262,7 @@
 .purple-text.text-lighten-1 {
   color: #ab47bc !important; }
 
-.purple.darken-1, .purple.top-half {
+.purple.darken-1, .top-half a.purple {
   background-color: #8e24aa !important; }
 
 .purple-text.text-darken-1 {
@@ -346,7 +346,7 @@
 .deep-purple-text.text-lighten-1 {
   color: #7e57c2 !important; }
 
-.deep-purple.darken-1, .deep-purple.top-half {
+.deep-purple.darken-1, .top-half a.deep-purple {
   background-color: #5e35b1 !important; }
 
 .deep-purple-text.text-darken-1 {
@@ -430,7 +430,7 @@
 .indigo-text.text-lighten-1 {
   color: #5c6bc0 !important; }
 
-.indigo.darken-1, .indigo.top-half {
+.indigo.darken-1, .top-half a.indigo {
   background-color: #3949ab !important; }
 
 .indigo-text.text-darken-1 {
@@ -514,7 +514,7 @@
 .blue-text.text-lighten-1 {
   color: #42A5F5 !important; }
 
-.blue.darken-1, .blue.top-half {
+.blue.darken-1, .top-half a.blue {
   background-color: #1E88E5 !important; }
 
 .blue-text.text-darken-1 {
@@ -598,7 +598,7 @@
 .light-blue-text.text-lighten-1 {
   color: #29b6f6 !important; }
 
-.light-blue.darken-1, .light-blue.top-half {
+.light-blue.darken-1, .top-half a.light-blue {
   background-color: #039be5 !important; }
 
 .light-blue-text.text-darken-1 {
@@ -682,7 +682,7 @@
 .cyan-text.text-lighten-1 {
   color: #26c6da !important; }
 
-.cyan.darken-1, .cyan.top-half {
+.cyan.darken-1, .top-half a.cyan {
   background-color: #00acc1 !important; }
 
 .cyan-text.text-darken-1 {
@@ -766,7 +766,7 @@
 .teal-text.text-lighten-1 {
   color: #26a69a !important; }
 
-.teal.darken-1, .teal.top-half {
+.teal.darken-1, .top-half a.teal {
   background-color: #00897b !important; }
 
 .teal-text.text-darken-1 {
@@ -850,7 +850,7 @@
 .green-text.text-lighten-1 {
   color: #66BB6A !important; }
 
-.green.darken-1, .green.top-half {
+.green.darken-1, .top-half a.green {
   background-color: #43A047 !important; }
 
 .green-text.text-darken-1 {
@@ -934,7 +934,7 @@
 .light-green-text.text-lighten-1 {
   color: #9ccc65 !important; }
 
-.light-green.darken-1, .light-green.top-half {
+.light-green.darken-1, .top-half a.light-green {
   background-color: #7cb342 !important; }
 
 .light-green-text.text-darken-1 {
@@ -1018,7 +1018,7 @@
 .lime-text.text-lighten-1 {
   color: #d4e157 !important; }
 
-.lime.darken-1, .lime.top-half {
+.lime.darken-1, .top-half a.lime {
   background-color: #c0ca33 !important; }
 
 .lime-text.text-darken-1 {
@@ -1102,7 +1102,7 @@
 .yellow-text.text-lighten-1 {
   color: #ffee58 !important; }
 
-.yellow.darken-1, .yellow.top-half {
+.yellow.darken-1, .top-half a.yellow {
   background-color: #fdd835 !important; }
 
 .yellow-text.text-darken-1 {
@@ -1186,7 +1186,7 @@
 .amber-text.text-lighten-1 {
   color: #ffca28 !important; }
 
-.amber.darken-1, .amber.top-half {
+.amber.darken-1, .top-half a.amber {
   background-color: #ffb300 !important; }
 
 .amber-text.text-darken-1 {
@@ -1270,7 +1270,7 @@
 .orange-text.text-lighten-1 {
   color: #ffa726 !important; }
 
-.orange.darken-1, .orange.top-half {
+.orange.darken-1, .top-half a.orange {
   background-color: #fb8c00 !important; }
 
 .orange-text.text-darken-1 {
@@ -1354,7 +1354,7 @@
 .deep-orange-text.text-lighten-1 {
   color: #ff7043 !important; }
 
-.deep-orange.darken-1, .deep-orange.top-half {
+.deep-orange.darken-1, .top-half a.deep-orange {
   background-color: #f4511e !important; }
 
 .deep-orange-text.text-darken-1 {
@@ -1438,7 +1438,7 @@
 .brown-text.text-lighten-1 {
   color: #8d6e63 !important; }
 
-.brown.darken-1, .brown.top-half {
+.brown.darken-1, .top-half a.brown {
   background-color: #6d4c41 !important; }
 
 .brown-text.text-darken-1 {
@@ -1498,7 +1498,7 @@
 .blue-grey-text.text-lighten-1 {
   color: #78909c !important; }
 
-.blue-grey.darken-1, .blue-grey.top-half {
+.blue-grey.darken-1, .top-half a.blue-grey {
   background-color: #546e7a !important; }
 
 .blue-grey-text.text-darken-1 {
@@ -1522,61 +1522,61 @@
 .blue-grey-text.text-darken-4 {
   color: #263238 !important; }
 
-.grey, .top-half, .bottom-half, .cloud-pricing {
+.grey, .top-half a, .bottom-half, .cloud-pricing {
   background-color: #9e9e9e !important; }
 
 .grey-text {
   color: #9e9e9e !important; }
 
-.grey.lighten-5, .lighten-5.top-half, .lighten-5.bottom-half, .lighten-5.cloud-pricing {
+.grey.lighten-5, .top-half a.lighten-5, .lighten-5.bottom-half, .lighten-5.cloud-pricing {
   background-color: #fafafa !important; }
 
 .grey-text.text-lighten-5 {
   color: #fafafa !important; }
 
-.grey.lighten-4, .lighten-4.top-half, .lighten-4.bottom-half, .lighten-4.cloud-pricing {
+.grey.lighten-4, .top-half a.lighten-4, .lighten-4.bottom-half, .lighten-4.cloud-pricing {
   background-color: #f5f5f5 !important; }
 
 .grey-text.text-lighten-4 {
   color: #f5f5f5 !important; }
 
-.grey.lighten-3, .lighten-3.top-half, .lighten-3.bottom-half, .lighten-3.cloud-pricing {
+.grey.lighten-3, .top-half a.lighten-3, .lighten-3.bottom-half, .lighten-3.cloud-pricing {
   background-color: #eeeeee !important; }
 
 .grey-text.text-lighten-3 {
   color: #eeeeee !important; }
 
-.grey.lighten-2, .lighten-2.top-half, .bottom-half, .lighten-2.cloud-pricing {
+.grey.lighten-2, .top-half a.lighten-2, .top-half a.bottom-half, .bottom-half, .lighten-2.cloud-pricing {
   background-color: #e0e0e0 !important; }
 
 .grey-text.text-lighten-2 {
   color: #e0e0e0 !important; }
 
-.grey.lighten-1, .lighten-1.top-half, .lighten-1.bottom-half, .lighten-1.cloud-pricing {
+.grey.lighten-1, .top-half a.lighten-1, .lighten-1.bottom-half, .lighten-1.cloud-pricing {
   background-color: #bdbdbd !important; }
 
 .grey-text.text-lighten-1 {
   color: #bdbdbd !important; }
 
-.grey.darken-1, .top-half, .darken-1.bottom-half, .darken-1.cloud-pricing {
+.grey.darken-1, .top-half a, .darken-1.bottom-half, .darken-1.cloud-pricing {
   background-color: #757575 !important; }
 
 .grey-text.text-darken-1 {
   color: #757575 !important; }
 
-.grey.darken-2, .darken-2.top-half, .darken-2.bottom-half, .cloud-pricing {
+.grey.darken-2, .top-half a.darken-2, .top-half a.cloud-pricing, .darken-2.bottom-half, .cloud-pricing {
   background-color: #616161 !important; }
 
 .grey-text.text-darken-2 {
   color: #616161 !important; }
 
-.grey.darken-3, .darken-3.top-half, .darken-3.bottom-half, .darken-3.cloud-pricing {
+.grey.darken-3, .top-half a.darken-3, .darken-3.bottom-half, .darken-3.cloud-pricing {
   background-color: #424242 !important; }
 
 .grey-text.text-darken-3 {
   color: #424242 !important; }
 
-.grey.darken-4, .darken-4.top-half, .darken-4.bottom-half, .darken-4.cloud-pricing {
+.grey.darken-4, .top-half a.darken-4, .darken-4.bottom-half, .darken-4.cloud-pricing {
   background-color: #212121 !important; }
 
 .grey-text.text-darken-4 {
@@ -3139,7 +3139,7 @@ html {
   color: rgba(0, 0, 0, 0.87); }
   @media only screen and (min-width: 0) {
     html {
-      font-size: 14px; } }
+      font-size: 12px; } }
   @media only screen and (min-width: 992px) {
     html {
       font-size: 14.5px; } }
@@ -5841,6 +5841,9 @@ input[type=range]:focus::-ms-fill-upper {
 .bottom-half {
   order: 2;
   height: 75px; }
+  .bottom-half p {
+    margin: 0px;
+    padding: 0px; }
 
 .center-paragraph {
   display: -webkit-box;
@@ -5873,3 +5876,34 @@ input[type=range]:focus::-ms-fill-upper {
 .cloud-pricing {
   order: 2;
   font-weight: bold; }
+
+.amazon-flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around; }
+
+.amazon-flex-item {
+  background: tomato;
+  padding: 5px;
+  width: 400px;
+  height: 200px;
+  margin-top: 10px;
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center; }
+
+.amazon-parapgraph {
+  display: flex;
+  flex-direction: row; }
+
+.amazon-left {
+  order: 1; }
