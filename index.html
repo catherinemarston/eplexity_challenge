@@ -45,9 +45,9 @@
                 8-columns-wide on medium screens,
                 12-columns-wide on small screens  -->
                 <!-- first div -->
-                <i class="material-icons prefix blue-text text-darken-2" style = "float: left;">phone</i>
+                <i class="material-icons prefix blue-text text-darken-2" style="float: left;">phone</i>
                 <h5>Add Provider Plan</h5>
-                <div class = "divider"></div>
+                <div class="divider"></div>
                 <!-- first div -->
                 <div class="provider row">
                     <div class="title cols6">
@@ -99,8 +99,8 @@
                         <div class="flex-container">
                             <div class="flex-item">
                                 <div class="top-half"><a>X1</a></div>
-                                <div class="bottom-half">
-                                    <p>
+                                <div class="bottom-half grey lighten-3">
+                                    <p class="grey-text text-darken-2">
                                         $50 <br/>
                                         <strong>PER MONTH</strong>
                                     </p>
@@ -111,8 +111,8 @@
                                 <div class="top-half">
                                     <a>X2</a>
                                 </div>
-                                <div class="bottom-half">
-                                    <p>
+                                <div class="bottom-half grey lighten-3">
+                                    <p class="grey-text text-darken-2">
                                         $70 <br/>
                                         <strong>PER MONTH</strong>
                                     </p>
@@ -120,8 +120,8 @@
                             </div>
                             <div class="flex-item">
                                 <div class="top-half"><a>X3</a></div>
-                                <div class="bottom-half">
-                                    <p>
+                                <div class="bottom-half grey lighten-3">
+                                    <p class="grey-text text-darken-2">
                                         $200 <br/>
                                         <strong>PER MONTH</strong>
                                     </p>
@@ -131,8 +131,8 @@
                                 <div class="top-half">
                                     X4
                                 </div>
-                                <div class="bottom-half">
-                                    <p>
+                                <div class="bottom-half grey lighten-3">
+                                    <p class="grey-text text-darken-2">
                                         $240 <br/>
                                         <strong>PER MONTH</strong>
                                     </p>
@@ -140,8 +140,8 @@
                             </div>
                             <div class="flex-item">
                                 <div class="top-half">X5</div>
-                                <div class="bottom-half">
-                                    <p>
+                                <div class="bottom-half grey lighten-3">
+                                    <p class="grey-text text-darken-2">
                                         $400 <br/>
                                         <strong>PER MONTH</strong>
                                     </p>
@@ -225,27 +225,25 @@
 
                         <div class="amazon-flex-container">
                             <div class="amazon-flex-item active-amazon">
-                              <i class="material-icons orange-amazon">clear_all</i>
+                                <i class="material-icons orange-amazon" style="float:left;">clear_all</i>
                                 <h6>Amazon Web Services</h6>
                                 <div class="amazon-paragraph">
                                     <!-- <p class="amazon-left">Total Budget</p> -->
-                                    <p style = "float: left;">Total Budget <br />$250 /MONTH </p>
-                                    <p class = "amazon-right">
-                                      Total Instances <br />
-                                      25
+                                    <p style="float: left;">Total Budget <br />$250 /MONTH </p>
+                                    <p class="amazon-right" style="float:right;">
+                                        Total Instances <br /> 25
 
                                     </p>
                                 </div>
                             </div>
                             <div class="amazon-flex-item">
-                              <i class="material-icons">clear_all</i>
+                                <i class="material-icons" style="float:left;">clear_all</i>
                                 <h6>Amazon Web Services</h6>
                                 <div class="amazon-paragraph">
                                     <!-- <p class="amazon-left">Total Budget</p> -->
-                                    <p style = "float: left;">Total Budget <br />$250 /MONTH </p>
-                                    <p class = "amazon-right">
-                                      Total Instances <br />
-                                      25
+                                    <p style="float: left;">Total Budget <br />$250 /MONTH </p>
+                                    <p class="amazon-right">
+                                        Total Instances <br /> 25
                                     </p>
                                 </div>
                             </div>
@@ -306,10 +304,48 @@
 
 
                 <!-- fourth section -->
-
+                <div class="row">
+                    <i class="material-icons prefix blue-text text-darken-2" style="float: left;">phone</i>
+                    <h5>Associate Organization</h5>
+                    <div class="col s12">
+                        <p class = "col s6">
+                            Select which cloud platform you'd like this server to live on. <br /> The server will consume resources from the cloud platform.
+                        </p>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <input placeholder="ABC Corp 1" id="associate_org" type="text" class="validate">
+                            <label for="associate_org">Associate Organization</label>
+                        </div>
+                    </div>
+                    <div class = "col s6">
+                      <div class = "row">
+                        <div class = "input-field col s4">
+                          <input placeholder="AWS" id = "partner_add" type="text" class="validate">
+                          <label for "partner_add">Select Partner Add-on Fee</label>
+                        </div>
+                        <div class="input-field col s2">
+                          <input placeholder = "20" id="percentage" type="number" class="validate">
+                          <label for="percentage">Fee, 20%</label>
+                        </div>
+                      </div>
+                      <p class = "blue-text text-darken-2">
+                        +Add another Partner's fee
+                      </p>
+                    </div>
+                </div>
 
                 <!--
 fifth section -->
+
+            <div class = "row">
+              <i class="material-icons prefix blue-text text-darken-2" style="float: left;">phone</i>
+              <h5>Marketplace</h5>
+            </div>
+
+<!-- //six section -->
+
+
             </div>
         </div>
     </div>

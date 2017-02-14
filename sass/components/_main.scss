@@ -45,9 +45,9 @@
   //   @extend .grey, .darken-1;
   // }
   h6 {
-    color: {
-      @extend .grey, .darken-1;
-    }
+    // color: {
+    //   @extend .grey, .darken-1;
+    // }
   }
   a {
     font-size: 25px;
@@ -57,15 +57,15 @@
 .bottom-half {
   order: 2;
   height: 75px;
-  background: {
-    @extend .grey, .lighten-2;
-  }
+  // background: {
+  //   @extend .grey, .lighten-2;
+  // }
   p {
     margin: 0px;
-    padding-top: 10px;
-    color: {
-      @extend .grey, .darken-3;
-    }
+    padding-top: 15px;
+    // color: {
+    //   @extend .grey, .darken-3;
+    // }
   }
   // color: {
   //   @extend .grey, .darken-1;
